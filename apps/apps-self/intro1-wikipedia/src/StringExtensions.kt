@@ -1,0 +1,5 @@
+class StringExtensions {
+    fun main() {
+
+    }
+}
